@@ -19,8 +19,8 @@
 ## 🌐 Socials:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abhishekpandey-cs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-verma-883a26248" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/_abhishekpandey__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stellar07" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kshitiz-tiwari-47610332b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-verma-883a26248" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/kingkshitiz05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stellar07" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
