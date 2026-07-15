@@ -12,7 +12,7 @@
   <img src="https://visitcount.itsvg.in/api?id=kshitiz0310&icon=0&color=6" alt="Profile Views" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gif%20for%20GitHub%20README/pixel-line-2.gif" width="100%">
+---
 
 ## 💫 About Me
 
@@ -38,7 +38,7 @@ const kshitiz = {
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gif%20for%20GitHub%20README/pixel-line-2.gif" width="100%">
+---
 
 ## 💻 Tech Stack
 
@@ -80,36 +80,27 @@ const kshitiz = {
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gif%20for%20GitHub%20README/pixel-line-2.gif" width="100%">
+---
 
 ## 🚀 Pinned Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Campus Review Hub
+### 🎓 [Campus Review Hub](https://github.com/kshitiz0310)
 Student-first platform to review courses, professors & campus life — real-time updates included.
 
-`React` `Vite` `Node.js` `Express` `MongoDB` `Socket.IO`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io)
 
-🔗 [Repo](https://github.com/kshitiz0310) &nbsp;|&nbsp; 🌐 Live: *add link here*
+🔗 **Repo:** [github.com/kshitiz0310](https://github.com/kshitiz0310) &nbsp;•&nbsp; 🌐 **Live:** *add link here*
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-### 🧠 AI Exam Notes Generator
+### 🧠 [AI Exam Notes Generator](https://github.com/kshitiz0310/Ai-Exam-Notes-Generator)
 Converts raw study material into clean, structured, exam-ready notes using AI.
 
-`React` `Node.js` `Express` `MongoDB` `Generative AI`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![AI](https://img.shields.io/badge/Generative_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
-🔗 [Repo](https://github.com/kshitiz0310/Ai-Exam-Notes-Generator) &nbsp;|&nbsp; 🌐 Live: *add link here*
+🔗 **Repo:** [github.com/kshitiz0310/Ai-Exam-Notes-Generator](https://github.com/kshitiz0310/Ai-Exam-Notes-Generator) &nbsp;•&nbsp; 🌐 **Live:** *add link here*
 
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gif%20for%20GitHub%20README/pixel-line-2.gif" width="100%">
+---
 
 ## 📊 GitHub Stats
 
@@ -133,7 +124,7 @@ Converts raw study material into clean, structured, exam-ready notes using AI.
   <img src="https://github-contributor-stats.vercel.app/api?username=kshitiz0310&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gif%20for%20GitHub%20README/pixel-line-2.gif" width="100%">
+---
 
 ## 🐍 Contribution Snake
 
