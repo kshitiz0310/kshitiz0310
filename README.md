@@ -9,7 +9,7 @@
   <a href="https://leetcode.com/u/kingkshitiz05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://github.com/kshitiz0310"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:kingkshitiz05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://visitcount.itsvg.in/api?id=kshitiz0310&icon=0&color=6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kshitiz0310&label=Profile%20Views&color=6a00f4&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -116,12 +116,15 @@ Converts raw study material into clean, structured, exam-ready notes using AI.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kshitiz0310&theme=radical&no-frame=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=kshitiz0310&theme=radical&no-frame=true&margin-w=8&row=1" />
 </p>
 
-### 🔝 Top Contributed Repo
+> ℹ️ **Note:** GitHub Trophies runs on a free, shared community server. During high-traffic periods it can temporarily show a broken image due to GitHub API rate limits — this is a known upstream issue, not something wrong in your README. If it happens often, self-hosting your own instance (steps in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)) fixes it permanently.
+
+## 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kshitiz0310&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kshitiz0310&theme=radical&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
 </p>
 
 ---
