@@ -147,6 +147,5 @@ Converts raw study material into clean, structured, exam-ready notes using AI.
   <img src="https://raw.githubusercontent.com/kshitiz0310/kshitiz0310/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-> ⚠️ **One-time setup needed** — this snake image will only show up after you add the workflow file (`snake.yml`, shared separately) to your `kshitiz0310/kshitiz0310` repo. Full steps are in the message below.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6a00f4&height=100&section=footer" width="100%"/>
