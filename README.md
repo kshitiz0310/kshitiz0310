@@ -131,13 +131,28 @@ Converts raw study material into clean, structured, exam-ready notes using AI.
 
 ## 📌 Top Repositories
 
-<p align="center">
-  <a href="https://github.com/kshitiz0310/Ai-Exam-Notes-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kshitiz0310&repo=Ai-Exam-Notes-Generator&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/kshitiz0310/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kshitiz0310&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/kshitiz0310/JOVAC-x-CB-2025"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kshitiz0310&repo=JOVAC-x-CB-2025&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-</p>
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🧠 [Ai-Exam-Notes-Generator](https://github.com/kshitiz0310/Ai-Exam-Notes-Generator)**
+AI-powered exam notes generator built with React, Node.js & Gemini AI.
+
+</td>
+<td width="33%" valign="top">
+
+**💼 [Portfolio](https://github.com/kshitiz0310/Portfolio)**
+My personal developer portfolio — React, TypeScript & Tailwind.
+
+</td>
+<td width="33%" valign="top">
+
+**⚙️ [JOVAC-x-CB-2025](https://github.com/kshitiz0310/JOVAC-x-CB-2025)**
+Project built as part of the JOVAC x Coding Blocks program.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -147,5 +162,6 @@ Converts raw study material into clean, structured, exam-ready notes using AI.
   <img src="https://raw.githubusercontent.com/kshitiz0310/kshitiz0310/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+> ⚠️ **One-time setup needed** — this snake image will only show up after you add the workflow file (`snake.yml`, shared separately) to your `kshitiz0310/kshitiz0310` repo. Full steps are in the message below.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6a00f4&height=100&section=footer" width="100%"/>
