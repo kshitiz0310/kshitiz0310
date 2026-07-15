@@ -89,7 +89,7 @@ My personal developer portfolio — showcasing my projects, skills, and experien
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-🔗 **Repo:** [github.com/kshitiz0310/Portfolio](https://github.com/kshitiz0310/Portfolio) &nbsp;•&nbsp; 🌐 **Live:** *add link here*
+🔗 **Repo:** [github.com/kshitiz0310/Portfolio](https://github.com/kshitiz0310/Portfolio) &nbsp;•&nbsp; 🌐 **Live:** *https://kshitiz-tiwari-portfolio.vercel.app/*
 
 <br>
 
@@ -98,7 +98,7 @@ Converts raw study material into clean, structured, exam-ready notes using AI.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![AI](https://img.shields.io/badge/Generative_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
-🔗 **Repo:** [github.com/kshitiz0310/Ai-Exam-Notes-Generator](https://github.com/kshitiz0310/Ai-Exam-Notes-Generator) &nbsp;•&nbsp; 🌐 **Live:** *add link here*
+🔗 **Repo:** [github.com/kshitiz0310/Ai-Exam-Notes-Generator](https://github.com/kshitiz0310/Ai-Exam-Notes-Generator) &nbsp;•&nbsp; 🌐 **Live:** *https://ai-exam-notes-generator-1.onrender.com*
 
 ---
 
@@ -135,6 +135,5 @@ Converts raw study material into clean, structured, exam-ready notes using AI.
   <img src="https://raw.githubusercontent.com/kshitiz0310/kshitiz0310/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-> ⚠️ **One-time setup needed** — this snake image will only show up after you add the workflow file (`snake.yml`, shared separately) to your `kshitiz0310/kshitiz0310` repo. Full steps are in the message below.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6a00f4&height=100&section=footer" width="100%"/>
