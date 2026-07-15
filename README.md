@@ -22,7 +22,7 @@
 const kshitiz = {
     role: "CSE Student & Web Developer",
     university: "GLA University",
-    currentlyBuilding: "Campus Review Hub 🎓",
+    currentlyBuilding: "My Portfolio Website 💼",
     currentlyLearning: ["Next.js", "Node.js", "TypeScript"],
     askMeAbout: ["JavaScript", "React", "GSAP"],
     funFact: "Once made a mock 'Friendship Court' petition just for fun 😂",
@@ -30,7 +30,7 @@ const kshitiz = {
 };
 ```
 
-- 🔭 Currently working on **Campus Review Hub** — React + Node + MongoDB + Socket.IO
+- 🔭 Currently working on my **Portfolio Website**
 - 🌱 Currently learning **Next.js, Node.js & TypeScript**
 - 📝 Regularly solving problems on [LeetCode](https://leetcode.com/u/kingkshitiz05/)
 - 👨‍💻 All my projects: [github.com/kshitiz0310](https://github.com/kshitiz0310)
@@ -84,12 +84,12 @@ const kshitiz = {
 
 ## 🚀 Pinned Projects
 
-### 🎓 [Campus Review Hub](https://github.com/kshitiz0310)
-Student-first platform to review courses, professors & campus life — real-time updates included.
+### 💼 [Portfolio](https://github.com/kshitiz0310/Portfolio)
+My personal developer portfolio — showcasing my projects, skills, and experience with a clean, modern UI.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-🔗 **Repo:** [github.com/kshitiz0310](https://github.com/kshitiz0310) &nbsp;•&nbsp; 🌐 **Live:** *add link here*
+🔗 **Repo:** [github.com/kshitiz0310/Portfolio](https://github.com/kshitiz0310/Portfolio) &nbsp;•&nbsp; 🌐 **Live:** *add link here*
 
 <br>
 
